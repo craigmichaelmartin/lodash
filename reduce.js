@@ -1,7 +1,7 @@
-import arrayReduce from './internal/arrayReduce';
-import baseEach from './internal/baseEach';
-import baseIteratee from './internal/baseIteratee';
-import baseReduce from './internal/baseReduce';
+import arrayReduce from './_arrayReduce';
+import baseEach from './_baseEach';
+import baseIteratee from './_baseIteratee';
+import baseReduce from './_baseReduce';
 import isArray from './isArray';
 
 /**
