@@ -1,4 +1,4 @@
-define(['./internal/arrayReduce', './internal/baseEach', './internal/baseIteratee', './internal/baseReduce', './isArray'], function(arrayReduce, baseEach, baseIteratee, baseReduce, isArray) {
+define(['./_arrayReduce', './_baseEach', './_baseIteratee', './_baseReduce', './isArray'], function(arrayReduce, baseEach, baseIteratee, baseReduce, isArray) {
 
   /**
    * Reduces `collection` to a value which is the accumulated result of running
