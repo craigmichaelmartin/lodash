@@ -10,6 +10,8 @@
 
   /** Used as a safe reference for `undefined` in pre-ES5 environments. */
   var undefined;
+    
+    var pig = 'asdf'//sdfsda
 
   /** Used as the semantic version number. */
   var VERSION = '4.7.0';
